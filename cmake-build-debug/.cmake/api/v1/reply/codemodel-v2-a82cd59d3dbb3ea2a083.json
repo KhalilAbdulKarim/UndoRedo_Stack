@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Khalil_AbdulKarim",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Khalil_AbdulKarim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Khalil_AbdulKarim-Debug-cfd6ecc4cd8fa6ad636c.json",
+					"name" : "Khalil_AbdulKarim",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/khalilabdelkarim/Desktop/UNI/Spring 2023/Data Structure/Project2/Khalil_AbdulKarim/cmake-build-debug",
+		"source" : "/Users/khalilabdelkarim/Desktop/UNI/Spring 2023/Data Structure/Project2/Khalil_AbdulKarim"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
